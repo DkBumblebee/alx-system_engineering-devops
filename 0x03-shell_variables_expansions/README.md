@@ -1,6 +1,7 @@
 .
 ├── 0-alias
 ├── 100-decimal_to_hexadecimal
+├── 102-odd
 ├── 10-love_exponent_breath
 ├── 11-binary_to_decimal
 ├── 12-combinations
@@ -16,4 +17,4 @@
 ├── 9-divide_and_rule
 └── README.md
 
-1 directory, 16 files
+1 directory, 17 files
